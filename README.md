@@ -1,2 +1,3 @@
 # SENT-AR
-Aplikasi Edukasi Seksual berbasis Mobile Android menggunakan Augmented Reality.
+
+Sex Education is Not Taboo Augmented Reality(SENT-AR) adalah aplikasi Edukasi Seksual berbasis Mobile Android menggunakan Augmented Reality.
